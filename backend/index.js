@@ -30,7 +30,7 @@ app.use(
     })
   );
 const corsOptions = {
-    origin:'http://localhost:5173', 
+    origin:'https://sdl-jobportal.onrender.com/', 
     credentials: true
 }
 
